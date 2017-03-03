@@ -5,7 +5,7 @@
 **http://35.160.72.172:5000/historical/20170505,29,14** - To insert information about a particular date    
 **http://35.160.72.172:5000/historical/delete/20170505**  -  To delete the information about a particular date    
 
-**Tools: Flask, python, sqlite 
+**Tools: Flask, python, sqlite **
 
 1. Run app.py on public IP and the URL for it is <ip-address>:5000  
 2. **/historical/** - all dates and their information. 
