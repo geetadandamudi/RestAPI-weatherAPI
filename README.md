@@ -8,10 +8,10 @@
 **Tools: Flask, python, sqlite **
 
 1. Run app.py on public IP and the URL for it is <ip-address>:5000  
-2. **/historical/** - all dates and their information. 
-3. **/historical/date** - GET method will return information about that particular date. 
-4. **/historical/date,tmax,tmin** - Inserts information about a new date into database.
-5. **/historical/date** - Delete method will delete the information about that particular date.  
+2. /historical/ - all dates and their information. 
+3. /historical/date - GET method will return information about that particular date. 
+4. /historical/date,tmax,tmin - Inserts information about a new date into database.
+5. /historical/date - Delete method will delete the information about that particular date.  
 
 Run it on your browser by clicking above links.
 
